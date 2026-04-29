@@ -51,6 +51,12 @@ Financial business dataset (simulated business scenario)
 
 ---
 
+# 📂 Project Files
+
+---
+
+- 📊 Dataset: [Download CSV](data/financial_data.csv)
+- 💻 Power BI Dashboard: [Download PBIX](dashboard/financial-analysis-dashboard.pbix)
 # 👨‍💻 Author
 
 Renato Saletti  
