@@ -12,7 +12,7 @@ This project provides financial insights through interactive visualizations and 
 
 # 📊 Dashboard Preview
 
-(IMAGE HERE)
+![Dashboard](https://raw.githubusercontent.com/Resaletti/financial-analysis-dashboard/main/images/dashboard-preview.png)
 
 ---
 
